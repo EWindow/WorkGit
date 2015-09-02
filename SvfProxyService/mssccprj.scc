@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[SvfProxyService.csproj]
+SCC_Aux_Path = "\\gelsfs01\vss_root\vssdata\bid_apps"
+SCC_Project_Name = "$/AuctionSystem/Source/Common/SvfProxyService", BGRAAAAA
+
+[SvfProxyService.sln]
+SCC_Aux_Path = "\\gelsfs01\vss_root\vssdata\bid_apps"
+SCC_Project_Name = "$/AuctionSystem/Source/Common/SvfProxyService", BGRAAAAA
